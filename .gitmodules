@@ -1,0 +1,3 @@
+[submodule "frontend/FERTILIZER-RECOMMENDATION-APP"]
+	path = frontend/FERTILIZER-RECOMMENDATION-APP
+	url = https://github.com/your-username/frontend-repo.git
