@@ -1,0 +1,13 @@
+# Python
+__pycache__/
+*.pyc
+venv/
+
+# Node.js
+node_modules/
+dist/
+build/
+
+# Environment and OS
+.env
+.DS_Store
